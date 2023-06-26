@@ -1,0 +1,19 @@
+h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#DisN {
+    font-weight: bold;
+}
+#SuB {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#SoB {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input {
+    margin: 10px;
+}
